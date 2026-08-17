@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hip9d4.idncuan.xyz/sitemap.xml
